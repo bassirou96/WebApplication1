@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1ba19aaf-f379-4a92-a4bb-4c7b4dbdbbbd/resourceGroups/appserviceRG/providers/Microsoft.Web/sites/web1bass",
+    "appService.deploySubpath": "WebApplication1"
+}
